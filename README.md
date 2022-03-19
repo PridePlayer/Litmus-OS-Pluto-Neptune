@@ -1,10 +1,11 @@
 # Litmus-OS-Neptune
-明霄升海平万象 当前为220207-01版本
+明霄升海平万象 当前为220210-01版本
 
-# 社区集群
+## “明霄升海平万象”
+> 明霄升海平万象 - Poseidon rises the moon then the world is in harmony
 
-官方用户论坛：https://prideplayer.top/forums/forum/litmus-os/
+这是一个使用 PowerPoint 制作的操作系统原型，你可以在你的计算机上面运行它，感受一个全新的操作系统的美好体验。它将会创造更加真实和贴近现实操作系统的体验，让你就如使用一个真正的操作系统一样舒适。简而言之，就是用 PPT 做的一个操作系统——不过，并不真实使用计算机程序语言。
 
-官方网站：https://prideplayer.top/litmus-os/
+“明霄升海平万象”是 Litmus OS Neptune 的宣传语，这预示着 Neptune 将会提供由米哈游公司出品的全平台游戏《原神》相关内容，更与系统版本号中“Neptune（海王星）”相呼应，同时昭示 Neptune 会拥有 Litmus OS 历史上最全面和最碾压其他 PPT OS 的功能与设计。
 
-开发版制作期间，你也可以在Issue中提出开发问题。
+我们计划，给予这个系统最优美的动画和我们技术实力之内的全部优秀功能。我们希望通过这个系统向人们展示，PPT 可以做出多么优秀的好东西。同时，Neptune 也是我们启动 PPT OS 开源计划的一个重要机遇。
